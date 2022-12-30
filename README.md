@@ -1,9 +1,9 @@
-#Tic-Tac-Toe
 
-A simple Tic-Tac-Toe game for two players.
+#  Tic-Tac-Toe  <h1>A simple Tic-Tac-Toe game for two players. 
+
 How to play
 
-    Open the game in your browser.
+  
     Player 1 goes first and clicks on a square to place their "X" symbol.
     Player 2 goes next and clicks on a square to place their "O" symbol.
     The game continues back and forth until one of the following conditions is met:
@@ -14,4 +14,4 @@ How to play
 
 Credits
 
-Tic-Tac-Toe was developed by [Your Name].
+Tic-Tac-Toe was developed by itsOski.
